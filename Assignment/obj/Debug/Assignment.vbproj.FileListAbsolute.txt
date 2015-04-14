@@ -39,3 +39,7 @@ D:\ĐIỆN TOÁN ĐÁM MÂY\Lamndps02177_INF205_Assignment Final\Assignment\Assi
 D:\ĐIỆN TOÁN ĐÁM MÂY\Lamndps02177_INF205_Assignment Final\Assignment\Assignment\obj\Debug\Assignment.frmgioithieu.resources
 D:\ĐIỆN TOÁN ĐÁM MÂY\Lamndps02177_INF205_Assignment Final\Assignment\Assignment\obj\Debug\Assignment.frmquanlykhachang.resources
 D:\ĐIỆN TOÁN ĐÁM MÂY\Lamndps02177_INF205_Assignment Final\Assignment\Assignment\obj\Debug\Assignment.frmthongtinkhachang.resources
+D:\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Assignment\Assignment\obj\Debug\Assignment.xml
+D:\Assignment\Assignment\obj\Debug\Assignment.pdb
